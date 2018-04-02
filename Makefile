@@ -1,4 +1,4 @@
-IMAGE=texlive-basic
+IMAGE=godbyk/texlive-basic
 
 all: image
 
